@@ -1,7 +1,7 @@
 # Implementaciones de diferentes tipos de Redes Neuronales
 **Descripción:**
 
-Implementar las diferentes Redes Neuronales sin utilizar librerías cómo TensorFlow en python.
+Implementar las diferentes Redes Neuronales sin utilizar librerías cómo PyTorch o TensorFlow en python.
 
 **Datos Académicos:**
   - Institución: Universidad Nacional de San Antonio Abad del Cusco
